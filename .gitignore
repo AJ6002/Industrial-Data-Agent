@@ -48,3 +48,7 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Reference Repositories
+external/
+
